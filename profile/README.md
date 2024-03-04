@@ -1,6 +1,6 @@
 
 # Elite Innovators
-东软信息学院2024高职组大创项目组
+东软信息学院2024高职组大创项目组 *精英创新者*
 
 ## 致谢
 
@@ -10,7 +10,9 @@
 ## 其他资源
 
 - [NodeJs](https://nodejs.org/en)
+- [Python](https://www.python.org/)
 - [MQTT](https://www.emqx.com/zh/blog/the-easiest-guide-to-getting-started-with-mqtt)
+- [A-Star算法](https://scm_mos.gitlab.io/motion-planner/a-star/)
 - [ESP32 Wi-Fi & 蓝牙 SoC](https://www.espressif.com/zh-hans/products/socs/esp32)
 
 
